@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\1zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|solutionrelative:lab_4\\1zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\3zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|solutionrelative:lab_4\\3zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\2zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8122CCA9-036D-4514-A1DB-E22259EDD3F3}|lab_4\\lab_4.vcxproj|solutionrelative:lab_4\\2zadan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3zadan.cpp",
+              "DocumentMoniker": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\3zadan.cpp",
+              "RelativeDocumentMoniker": "lab_4\\3zadan.cpp",
+              "ToolTip": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\3zadan.cpp",
+              "RelativeToolTip": "lab_4\\3zadan.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:36:20.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2zadan.cpp",
+              "DocumentMoniker": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\2zadan.cpp",
+              "RelativeDocumentMoniker": "lab_4\\2zadan.cpp",
+              "ToolTip": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\2zadan.cpp",
+              "RelativeToolTip": "lab_4\\2zadan.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:27:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1zadan.cpp",
+              "DocumentMoniker": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\1zadan.cpp",
+              "RelativeDocumentMoniker": "lab_4\\1zadan.cpp",
+              "ToolTip": "E:\\!loaz4\\4 \u043B\u0430\u0431\u0430\\lab_4\\lab_4\\1zadan.cpp",
+              "RelativeToolTip": "lab_4\\1zadan.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:46:49.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
